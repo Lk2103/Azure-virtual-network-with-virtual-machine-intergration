@@ -1,4 +1,4 @@
-# Azure Virtual Network With Virtual Machine Intergration
+# Azure Virtual Network With Virtual Machine Integration
 
 A small project demonstrating the configuration of two virtual networks and virtual machines which communicate via the private Azure backbone.
 

@@ -6,7 +6,7 @@ A small project demonstrating the configuration of two virtual networks and virt
 
 This project demonstrates the configuration of Azure Virtual Networks and Virtual Machines, including the configuration of separate resource groups and VNet(Virtual Network) Peering to enable private communication between networks and their associated virtual machines.
 
-<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/744007d2-7676-489c-8dc9-28796bf85f1e" />
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/380c2787-265c-4db3-800e-2b2ef4d7ca23" />
 
 <img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/3d61db67-3484-4a84-9b92-d21975fa9afc" />
 
@@ -33,7 +33,9 @@ Clear consistent names for all of the virtual networks and virtual machines ensu
 **What I Learnt**
 
 Creating Azure Virtual Network
-<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/c4e2dad0-a537-484e-9d93-7b8d3643633e" />
+
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/59a2c4a5-ac6d-4033-a3a1-88afd48bb77e" />
+
 *Creating the Azure Virtual Network*
 
 How to allow virtual networks and their resource services such as Virtual Machines to communicate with each other

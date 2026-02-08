@@ -39,7 +39,7 @@ Importance of creating resource groups associated with resources
 
 The dramatic effect storage in various regions can have on the price of storage and services.
 
-Creating a An Azure Virtual Machine with low cost
+Creating a Azure Virtual Machine with low cost
 
 <img width="1915" height="818" alt="image" src="https://github.com/user-attachments/assets/884baf42-0c95-4d4d-bbbf-f6c5fff01732" />
 *Final Page of Creating the Virtual Machine*
